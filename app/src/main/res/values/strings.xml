@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISO</string>
+    <string name="label1">Bienvenido</string>
+    <string name="btn1">TEMA 1 </string>
+    <string name="btn2">TEMA 2</string>
+    <string name="btn3">TEMA 3</string>
+    <string name="btn4">TEMA 4</string>
+</resources>
